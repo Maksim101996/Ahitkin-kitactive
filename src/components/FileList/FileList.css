@@ -1,0 +1,7 @@
+.files {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 16px;
+	padding: 16px;
+	margin: 0 auto;
+}

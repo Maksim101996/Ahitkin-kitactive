@@ -1,0 +1,10 @@
+.form {
+	display: flex;
+	flex-direction: column;
+}
+
+.title {
+	font-size: 20px;
+	color: gray;
+	margin: 10px 0px;
+}

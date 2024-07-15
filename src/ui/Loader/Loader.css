@@ -1,0 +1,16 @@
+.loader {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	border: 3px dashed crimson;
+	animation: preloadRotate 1s infinite linear;
+}
+
+@keyframes preloadRotate {
+	from {
+		transform: rotate(0deg) scale(1);
+	}
+	to {
+		transform: rotate(360deg) scale(1.2);
+	}
+}
